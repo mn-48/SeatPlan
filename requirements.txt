@@ -1,3 +1,4 @@
 matplotlib
 numpy
 cv2-tools
+opencv-python
